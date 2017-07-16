@@ -1,0 +1,13 @@
+obj/Debug/netcoreapp1.1/regexDemo.csproj.FileListAbsolute.txt
+bin/Debug/netcoreapp1.1/regexDemo.deps.json
+bin/Debug/netcoreapp1.1/regexDemo.dll
+bin/Debug/netcoreapp1.1/regexDemo.pdb
+bin/Debug/netcoreapp1.1/regexDemo.runtimeconfig.dev.json
+bin/Debug/netcoreapp1.1/regexDemo.runtimeconfig.json
+obj/project.assets.json
+obj/regexDemo.csproj.nuget.g.props
+obj/regexDemo.csproj.nuget.g.targets
+obj/Debug/netcoreapp1.1/CoreCompileInputs.cache
+obj/Debug/netcoreapp1.1/regexDemo.AssemblyInfo.cs
+obj/Debug/netcoreapp1.1/regexDemo.dll
+obj/Debug/netcoreapp1.1/regexDemo.pdb
